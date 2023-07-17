@@ -24,3 +24,9 @@ html, body {
 #player-card, #cpu-card {
     height: 220px;
 }
+
+.btn:disabled {
+    color: white;
+    background-color: darkgray;
+    border-color: darkgrey;
+}
